@@ -56,18 +56,6 @@ h1{
     border-radius: 4px;
 }
 
-.letter-correct{
-    background-color: var(--color-correct);
-}
-
-.letter-incorrect{
-    background-color: var(--color-incorrect);
-}
-
-.letter-present{
-    background-color: var(--color-present);
-}
-
 .form{
     margin-bottom: 1rem;
 }
@@ -143,6 +131,19 @@ h1{
 
 .keyboard__letter:hover{
     background-color: #9ea2a8;
+}
+
+
+.letter-correct{
+    background-color: var(--color-correct);
+}
+
+.letter-incorrect{
+    background-color: var(--color-incorrect);
+}
+
+.letter-present{
+    background-color: var(--color-present);
 }
 
 @media screen and (max-width:767px){
