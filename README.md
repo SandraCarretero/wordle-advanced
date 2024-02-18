@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [https://sandracarretero.github.io/clock/](https://sandracarretero.github.io/wordle-advanced/)
+- [https://sandracarretero.github.io/wordle-advanced/](https://sandracarretero.github.io/wordle-advanced/)
 
 ## Descripción 📑
 
