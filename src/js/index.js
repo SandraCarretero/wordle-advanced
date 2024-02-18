@@ -44,6 +44,7 @@ const generateKeyboard = () => {
 	const deleteButtonImage = document.createElement('img');
 	deleteButtonImage.src = deleteImg;
 	deleteButton.classList.add('keyboard__letter');
+	deleteButton.classList.add('keyboard__delete');
 	deleteButton.addEventListener('click', deleteLastLetter);
 	deleteButton.append(deleteButtonImage);
 	keyboardElement.appendChild(deleteButton);

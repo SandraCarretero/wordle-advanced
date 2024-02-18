@@ -155,4 +155,7 @@ h1{
 		width: 50px;
 		font-size: 14px;
 	}
+	.keyboard__delete{
+		font-size: 22px;
+	}
 }
